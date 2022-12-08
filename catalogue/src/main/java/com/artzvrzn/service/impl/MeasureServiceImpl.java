@@ -1,12 +1,10 @@
 package com.artzvrzn.service.impl;
 
 import com.artzvrzn.dao.MeasureRepository;
-import com.artzvrzn.domain.Item;
 import com.artzvrzn.domain.Measure;
 import com.artzvrzn.dto.MeasureDto;
 import com.artzvrzn.mapper.MeasureMapper;
 import com.artzvrzn.service.MeasureService;
-import java.util.List;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

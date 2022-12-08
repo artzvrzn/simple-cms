@@ -4,7 +4,6 @@ import com.artzvrzn.domain.Category;
 import com.artzvrzn.dto.CategoryDto;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
-import org.mapstruct.NullValuePropertyMappingStrategy;
 
 @Mapper
 public interface CategoryMapper {

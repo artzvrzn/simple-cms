@@ -1,7 +1,6 @@
 package com.artzvrzn.service;
 
 import com.artzvrzn.dto.MeasureDto;
-import java.util.List;
 import org.springframework.data.domain.Page;
 
 public interface MeasureService {
